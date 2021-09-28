@@ -11,7 +11,7 @@ You have to add your name, email, os and github handle here in the readme on a n
 | Nicolas Beaussart    | nic.beaussart+fges@gmail.com         | Linux | beaussan       |
 | Anthony Quéré        | anthony.quere@lacatholille.fr        | Linux | Anthony-Jhoiro |
 | Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC     |
-
+| Alexandre Soares     | alexandre.soares@lacatholille.fr 	  | Windows | AS-37    	   |
 Once this tp is finish, this repo will become private.
 
 ## How to
