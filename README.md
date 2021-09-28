@@ -15,6 +15,11 @@ You have to add your name, email, os and github handle here in the readme on a n
 | Tristan Six          | sixtristan@orange.fr                 | Windows | Tarskan        |
 | Hugo Nollet          | hugo.nollet@lacatholille.fr          | Linux   | hugonollet     |
 | Burdy Simon          | simon.burdy@lacatholille.fr          | Window | SimonBurdy     |
+| Alexandre Soares     | alexandre.soares@lacatholille.fr     | Windows | AS-37          |
+| Zelleg Massyl        | massyl.zelleg@lacatholille.fr        | Windows | zelleg         |
+| Adrien Bassail       | adrien.bassail@lacatholille.fr       | Windows | Adrien-Ba      |
+| Henri Boulnois       | henri.boulnois@lacatholille.fr       | Windows | HenriBoulnois  |
+
 
 Once this tp is finish, this repo will become private.
 
