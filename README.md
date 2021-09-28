@@ -6,21 +6,19 @@ Here the objective is to make your first pull request.
 
 You have to add your name, email, os and github handle here in the readme on a new line of the array :
 
-<<<<<<< HEAD
+
 | Name                 | Email                                | Os      | github         |
 | -------------------- | ------------------------------------ | ------- | -------------- |
 | Nicolas Beaussart    | nic.beaussart+fges@gmail.com         | Linux   | beaussan       |
 | Anthony Quéré        | anthony.quere@lacatholille.fr        | Linux   | Anthony-Jhoiro |
 | Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux   | Anatole-DC     |
 | Tristan Six          | sixtristan@orange.fr                 | Windows | Tarskan        |
-| GOBERT MARTIN         | martin .gobert@lacatholille.fr      | Mac OS | goby33        |
-=======
-| Name              | Email                        | Os    | github   |
-| ----------------- | ---------------------------- | ----- | -------- |
-| Nicolas Beaussart | nic.beaussart+fges@gmail.com | Linux | beaussan |
-| GOBERT MARTIN     | gobertmartin@lacatholille.fr| Mac os | goby33   |
-|                   |                              |       |          |
->>>>>>> cd72d58254948a0dd4e9475da7dd3a0769b6ef8d
+| Hugo Nollet          | hugo.nollet@lacatholille.fr          | Linux   | hugonollet     |
+| Alexandre Soares     | alexandre.soares@lacatholille.fr     | Windows | AS-37          |
+| Zelleg Massyl        | massyl.zelleg@lacatholille.fr        | Windows | zelleg         |
+| Adrien Bassail       | adrien.bassail@lacatholille.fr       | Windows | Adrien-Ba      |
+| GOBERT MARTIN       | martin.gobert@lacatholille.fr         | MAc OS | goby33      |
+
 
 Once this tp is finish, this repo will become private.
 
