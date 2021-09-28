@@ -1,6 +1,6 @@
 # 2021 - 2022 Git TP
 
-Welcome to the first tp ! TEst
+Welcome to the first tp !
 
 Here the objective is to make your first pull request.
 
@@ -11,6 +11,7 @@ You have to add your name, email, os and github handle here in the readme on a n
 | Nicolas Beaussart    | nic.beaussart+fges@gmail.com         | Linux | beaussan       |
 | Anthony Quéré        | anthony.quere@lacatholille.fr        | Linux | Anthony-Jhoiro |
 | Anatole de Chauveron | anatole.de-chauveron@lacatholille.fr | Linux | Anatole-DC     |
+| Burdy Simon          | simon.burdy@lacatholille.fr          | Window | SimonBurdy     |
 
 Once this tp is finish, this repo will become private.
 
